@@ -20,5 +20,5 @@ The main findings of this analysis can be found in my post available [here](http
 
 ## Authors and Acknowledgements<a name="licensing"></a>
 
-Please credit to the original author for these data. You can find the descriptive information at the Kaggle link available [here](
+Please credit the original author if you use the data. You can find the descriptive information at the Kaggle link available [here](
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results). 
