@@ -1,11 +1,3 @@
-### Table of Contents
-
-1. [Installation](#installation)
-2. [Inspiration](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
-
 ## Installation <a name="installation"></a>
 
 You should be able to run the code in the file here using the Anaconda distribution of Python. The code should run using Python versions 3.*.
