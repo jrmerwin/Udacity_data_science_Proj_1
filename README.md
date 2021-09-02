@@ -1,6 +1,6 @@
 ## Installation <a name="installation"></a>
 
-You should be able to run the code in the file here using the Anaconda distribution of Python. The code should run using Python versions 3.*.
+You should be able to run the code in the .ipynb file here using the Anaconda distribution of Python. The code should run using Python versions 3.*.
 
 ## Inspiration<a name="motivation"></a>
 
