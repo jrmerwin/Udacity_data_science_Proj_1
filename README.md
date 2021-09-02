@@ -4,10 +4,10 @@ You should be able to run the code in the .ipynb file here using the Anaconda di
 
 ## Inspiration<a name="motivation"></a>
 
-In this project, I was interestested in exploring an Olypmic athlete data set from Kaggle user Stack Overflow data from 1980 to better understand:
+In this project I explored an Olypmic athlete data from the 1980 summer games onward to gain insights on the following questions:
 
 1. How does country team size influence the number of medals won?
-2. Are there any significant differences between male and female athletes?
+2. Are there significant differences between male and female athletes?
 3. How do the characteristics of Olympic athletes change over time?
 
 ## File Descriptions <a name="files"></a>
@@ -16,7 +16,7 @@ There is one Jupyter notebook available here which runs the analysis of the data
 
 ## Results<a name="results"></a>
 
-The main findings of this analysis can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of this analysis can be found in my post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
 
 ## Authors and Acknowledgements<a name="licensing"></a>
 
