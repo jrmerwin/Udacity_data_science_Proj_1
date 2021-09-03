@@ -16,7 +16,7 @@ There is one Jupyter notebook available here which runs the analysis of the data
 
 ## Results<a name="results"></a>
 
-The main findings of this analysis can be found in my post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of this analysis can be found in my post available [here](https://medium.com/@merwijas/what-data-tells-us-about-olympic-athletes-efd8c12bbaba).
 
 ## Authors and Acknowledgements<a name="licensing"></a>
 
